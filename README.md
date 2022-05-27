@@ -2,7 +2,7 @@
 Uma aplicação simples de Java com condicionais validando um saldo do cliente com o valor de compra, 
 que possibilita ou não a compra, e no final diz se tem ou não tem troco para o cliente.
 
-    // Instagram: @pikdev_
+    		// Instagram: @pikdev_
 
 		// Youtube: @Pikachu Gamer
 
